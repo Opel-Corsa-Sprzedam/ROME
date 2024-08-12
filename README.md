@@ -1,14 +1,10 @@
 # ROME
 
 
-sdf
-ds
-f
-dsf
+ROME - Empire
 
-dsf
-test
+This is a guide to labs focusing on Android 14 RAT.
+Some steps would be skipped due to other sources explaining it.
 
-sd
-f
-ds
+Case Study:
+1. Infection thoutgh Bluetooth exploit.
